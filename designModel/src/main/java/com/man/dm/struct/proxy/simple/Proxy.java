@@ -1,4 +1,4 @@
-package com.man.dm.struct.proxy;
+package com.man.dm.struct.proxy.simple;
 
 public class Proxy implements Subject{
 
